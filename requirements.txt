@@ -1,0 +1,16 @@
+# /requirements.txt
+
+# Update pip
+pip
+setuptools
+
+Pillow
+matplotlib
+opencv-python
+numpy
+sklearn
+h5py
+keras
+theano
+scikit-image
+
